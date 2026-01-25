@@ -34,9 +34,6 @@ const Footer = () => {
                   <span className="font-display font-bold text-lg text-foreground">
                     PERMASIZE
                   </span>
-                  <span className="text-[10px] text-primary font-medium tracking-widest uppercase">
-                    AI Forge
-                  </span>
                 </div>
               </a>
               <p className="text-foreground-muted text-sm leading-relaxed mb-6">
@@ -134,7 +131,7 @@ const Footer = () => {
         {/* Bottom bar */}
         <div className="py-6 border-t border-border/50 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-foreground-muted text-sm">
-            © {new Date().getFullYear()} Permasize AI Forge. All rights reserved.
+            © {new Date().getFullYear()} Permasize. All rights reserved.
           </p>
           <p className="text-foreground-muted text-sm">
             Human Intelligence First. Artificial Intelligence Second.

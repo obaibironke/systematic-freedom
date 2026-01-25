@@ -42,7 +42,7 @@ const AboutSection = () => {
                     </div>
                     <div>
                       <div className="font-semibold text-foreground">Emmanuel King</div>
-                      <div className="text-sm text-foreground-muted">Founder, Permasize AI Forge</div>
+                      <div className="text-sm text-foreground-muted">Founder, Permasize</div>
                     </div>
                   </div>
                 </div>

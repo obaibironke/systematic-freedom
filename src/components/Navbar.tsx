@@ -33,9 +33,6 @@ const Navbar = () => {
               <span className="font-display font-bold text-xl text-foreground tracking-tight">
                 PERMASIZE
               </span>
-              <span className="text-[10px] text-primary font-medium tracking-widest uppercase">
-                AI Forge
-              </span>
             </div>
           </a>
 
