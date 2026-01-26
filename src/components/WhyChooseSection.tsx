@@ -12,7 +12,7 @@ const reasons = [
     icon: Cpu,
     title: "Technology + Human Intelligence",
     description:
-      "We combine 18+ years of enterprise technology experience with a human-first approach. AI enhances, but people lead.",
+      "We combine 18+ years of enterprise technology experience with a human,first approach. AI enhances, but people lead.",
   },
   {
     icon: LineChart,
@@ -22,7 +22,7 @@ const reasons = [
   },
   {
     icon: Rocket,
-    title: "Exit-Ready Businesses",
+    title: "Exit,Ready Businesses",
     description:
       "Every system we build increases your company's valuation. When you're replaceable, your business becomes sellable.",
   },
@@ -66,7 +66,7 @@ const WhyChooseSection = () => {
             Built Different
           </h2>
           <p className="text-lg text-foreground-muted">
-            We're not just consultants-we're implementation partners who 
+            We're not just consultants,we're implementation partners who 
             care deeply about your success.
           </p>
         </motion.div>

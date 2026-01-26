@@ -7,9 +7,9 @@ const steps = [
     title: "Document",
     subtitle: "Unbottle Your Business",
     description:
-      "We transform the knowledge trapped in your head into clear, step-by-step systems that anyone can follow.",
+      "We transform the knowledge trapped in your head into clear, step,by,step systems that anyone can follow.",
     features: [
-      "Video-documented workflows",
+      "Video,documented workflows",
       "Written SOPs",
       "Process maps for every function",
       "Searchable documentation library",
@@ -40,12 +40,12 @@ const steps = [
       "Now that you're free from daily operations, we help you double down on revenue-generating activities.",
     features: [
       "Process optimization & automation",
-      "AI-powered workflow enhancement",
+      "AI,powered workflow enhancement",
       "Growth strategy implementation",
       "Continuous improvement systems",
     ],
     icon: TrendingUp,
-    output: "Sustainable revenue growth-many clients double revenue within 12-24 months",
+    output: "Sustainable revenue growth,many clients double revenue within 12-24 months",
   },
 ];
 
@@ -69,7 +69,7 @@ const FrameworkSection = () => {
             The Framework
           </span>
           <h2 className="font-display text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground mb-6">
-            Document → Delegate → Scale
+            Document , Delegate , Scale
           </h2>
           <p className="text-lg text-foreground-muted">
             Our proven three-step methodology transforms chaotic, owner-dependent 
