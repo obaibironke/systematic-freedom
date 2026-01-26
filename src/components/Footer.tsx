@@ -115,16 +115,16 @@ const Footer = () => {
                 <li className="flex items-center gap-3">
                   <Mail className="w-5 h-5 text-primary flex-shrink-0" />
                   <a
-                    href="mailto:hello@permasize.com"
+                    href="mailto:amanda@permasizeaiforge.com"
                     className="text-foreground-muted hover:text-primary transition-colors text-sm"
                   >
-                    hello@permasize.com
+                    amanda@permasizeaiforge.com
                   </a>
                 </li>
                 <li className="flex items-center gap-3">
                   <Phone className="w-5 h-5 text-primary flex-shrink-0" />
                   <span className="text-foreground-muted text-sm">
-                    Tue-Thu, 9AM-5PM MT
+                    (651) 337-7727
                   </span>
                 </li>
               </ul>
