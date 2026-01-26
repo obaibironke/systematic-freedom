@@ -1,4 +1,4 @@
-import { Brain, Mail, Phone, MapPin, Linkedin, Twitter } from "lucide-react";
+import { Brain, Mail, Phone, MapPin, Linkedin } from "lucide-react";
 
 const footerLinks = {
   company: [
@@ -41,23 +41,17 @@ const Footer = () => {
                 </div>
               </a>
               <p className="text-foreground-muted text-sm leading-relaxed mb-6">
-                Helping B2B companies scale revenue by making owners replaceable 
-                through systematic documentation and intelligent delegation.
+                We help B2B companies scale revenue by transforming tribal knowledge into documented systems, then delegate and automate to multiply results.
               </p>
               <div className="flex gap-4">
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/emmanuelkingibi"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-10 h-10 rounded-lg glass flex items-center justify-center text-foreground-muted hover:text-primary hover:border-primary/50 transition-colors"
                   aria-label="LinkedIn"
                 >
                   <Linkedin className="w-5 h-5" />
-                </a>
-                <a
-                  href="#"
-                  className="w-10 h-10 rounded-lg glass flex items-center justify-center text-foreground-muted hover:text-primary hover:border-primary/50 transition-colors"
-                  aria-label="Twitter"
-                >
-                  <Twitter className="w-5 h-5" />
                 </a>
               </div>
             </div>

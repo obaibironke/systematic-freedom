@@ -65,7 +65,7 @@ const HeroSection = () => {
                   {word}
                 </span>
                 {index < 2 && (
-                  <span className="text-primary text-2xl sm:text-3xl"> - </span>
+                  <span className="text-primary text-2xl sm:text-3xl">, </span>
                 )}
               </div>
             ))}
@@ -78,8 +78,7 @@ const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg sm:text-xl text-foreground-muted max-w-3xl mx-auto mb-12 leading-relaxed"
           >
-            We help B2B companies scale revenue by transforming tribal knowledge 
-            into documented systems - then delegate and automate to multiply results.
+            We help B2B companies scale revenue by transforming tribal knowledge into documented systems, then delegate and automate to multiply results.
           </motion.p>
 
           {/* CTA Buttons */}
