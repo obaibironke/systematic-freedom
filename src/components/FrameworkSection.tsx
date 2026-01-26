@@ -45,7 +45,7 @@ const steps = [
       "Continuous improvement systems",
     ],
     icon: TrendingUp,
-    output: "Sustainable revenue growth—many clients double revenue within 12-24 months",
+    output: "Sustainable revenue growth-many clients double revenue within 12-24 months",
   },
 ];
 

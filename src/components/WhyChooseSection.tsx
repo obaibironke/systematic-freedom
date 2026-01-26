@@ -66,7 +66,7 @@ const WhyChooseSection = () => {
             Built Different
           </h2>
           <p className="text-lg text-foreground-muted">
-            We're not just consultants—we're implementation partners who 
+            We're not just consultants-we're implementation partners who 
             care deeply about your success.
           </p>
         </motion.div>
