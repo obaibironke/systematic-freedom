@@ -6,7 +6,7 @@ const achievements = [
   "SAP, CRM, ERP implementations at scale",
   "Business process documentation expert",
   "AI integration & automation strategist",
-  "Helped companies increase valuation 2,10x",
+  "Helped companies increase valuation 2-10x",
 ];
 
 const AboutSection = () => {
@@ -65,11 +65,11 @@ const AboutSection = () => {
               <p className="text-lg text-foreground-muted mb-8 leading-relaxed">
                 For 18 years, Emmanuel King has helped enterprise companies scale by implementing 
                 technology and documenting business processes at every level. From SAP implementations 
-                to AI integrations, he's seen what works , and what doesn't.
+                to AI integrations, he's seen what works, and what doesn't.
               </p>
               <p className="text-lg text-foreground-muted mb-8 leading-relaxed">
                 The pattern is clear: businesses that scale are the ones where knowledge 
-                doesn't live in people's heads , it lives in systems. That's why Permasize 
+                doesn't live in people's heads, it lives in systems. That's why Permasize 
                 was founded.
               </p>
 

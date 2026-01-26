@@ -47,7 +47,7 @@ const CTASection = () => {
 
           {/* Subheadline */}
           <p className="text-xl text-foreground-muted max-w-2xl mx-auto mb-12 leading-relaxed">
-            Schedule a free consultation to discuss how our Document , Delegate , Scale 
+            Schedule a free consultation to discuss how our Document, Delegate, Scale 
             framework can transform your business.
           </p>
 
