@@ -89,7 +89,12 @@ const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.8 }}
             className="flex flex-col sm:flex-row items-center justify-center gap-4"
           >
-            <Button variant="hero" size="xl" className="group">
+            <Button 
+              variant="hero" 
+              size="xl" 
+              className="group"
+              onClick={() => window.open("https://calendly.com/emmanuelking2525/permasize_discovery_session?", "_blank")}
+            >
               Get Your Free System Analysis
               <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
             </Button>

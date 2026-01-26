@@ -52,7 +52,11 @@ const Navbar = () => {
 
           {/* CTA Button */}
           <div className="hidden md:block">
-            <Button variant="hero" size="default">
+            <Button 
+              variant="hero" 
+              size="default"
+              onClick={() => window.open("https://calendly.com/emmanuelking2525/permasize_discovery_session?", "_blank")}
+            >
               Get Started
             </Button>
           </div>
@@ -89,7 +93,12 @@ const Navbar = () => {
                   {link.name}
                 </a>
               ))}
-              <Button variant="hero" size="lg" className="mt-4">
+              <Button 
+                variant="hero" 
+                size="lg" 
+                className="mt-4"
+                onClick={() => window.open("https://calendly.com/emmanuelking2525/permasize_discovery_session?", "_blank")}
+              >
                 Get Started
               </Button>
             </div>

@@ -102,7 +102,11 @@ const ProblemSection = () => {
                 Permasize transforms tribal knowledge into executable systems. 
                 We document, delegate, and scale—so you can work ON your business, not IN it.
               </p>
-              <Button variant="hero" className="group">
+              <Button 
+                variant="hero" 
+                className="group"
+                onClick={() => window.open("https://calendly.com/emmanuelking2525/permasize_discovery_session?", "_blank")}
+              >
                 Start Unbottling
                 <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
               </Button>
