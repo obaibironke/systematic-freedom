@@ -28,7 +28,11 @@ const Footer = () => {
             <div className="lg:col-span-1">
               <a href="#home" className="flex items-center gap-3 mb-6">
                 <div className="relative">
-                  <Brain className="w-8 h-8 text-primary" />
+                  <img 
+                    src="/WhatsApp Image 2026-01-25 at 5.34.20 PM.jpeg" 
+                    alt="Permasize Logo" 
+                    className="w-8 h-8 object-contain" 
+                  />
                 </div>
                 <div className="flex flex-col">
                   <span className="font-display font-bold text-lg text-foreground">

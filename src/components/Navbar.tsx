@@ -26,7 +26,11 @@ const Navbar = () => {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-3 group">
             <div className="relative">
-              <Brain className="w-9 h-9 text-primary glow-cyan-text transition-all duration-300 group-hover:scale-110" />
+              <img 
+                src="/WhatsApp Image 2026-01-25 at 5.34.20 PM.jpeg" 
+                alt="Permasize Logo" 
+                className="w-9 h-9 object-contain transition-all duration-300 group-hover:scale-110" 
+              />
               <div className="absolute inset-0 bg-primary/20 rounded-full blur-xl animate-glow-pulse" />
             </div>
             <div className="flex flex-col">

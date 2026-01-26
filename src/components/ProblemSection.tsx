@@ -100,7 +100,7 @@ const ProblemSection = () => {
               </h3>
               <p className="text-foreground-muted text-lg leading-relaxed mb-6">
                 Permasize transforms tribal knowledge into executable systems. 
-                We document, delegate, and scale—so you can work ON your business, not IN it.
+                We document, delegate, and scale - so you can work ON your business, not IN it.
               </p>
               <Button 
                 variant="hero" 
