@@ -59,7 +59,7 @@ const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="flex items-center justify-center gap-3 sm:gap-6 mb-8"
           >
-            {["Document", "Delegate", "Scale"].map((word, index) => (
+            {["Document", "Delegate", "Scale."].map((word, index) => (
               <div key={word} className="flex items-center">
                 <span className="font-display text-xl sm:text-2xl lg:text-3xl font-semibold text-foreground-muted hover:text-primary transition-colors duration-300">
                   {word}
