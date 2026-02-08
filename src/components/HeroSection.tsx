@@ -78,7 +78,7 @@ const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg sm:text-xl text-foreground-muted max-w-3xl mx-auto mb-12 leading-relaxed"
           >
-            We help B2B companies scale revenue by transforming tribal knowledge into documented systems, then delegate and automate to multiply results.
+            We help businesses scale revenue by transforming tribal knowledge into documented systems, then delegate and automate to multiply results.
           </motion.p>
 
           {/* CTA Buttons */}
@@ -101,7 +101,7 @@ const HeroSection = () => {
               variant="heroOutline" 
               size="xl" 
               className="group"
-              onClick={() => window.open("https://calendly.com/emmanuelking2525/permasize_discovery_session?", "_blank")}
+              onClick={() => window.open("https://documentation.permasize.com/", "_blank")}
             >
               <Play className="w-5 h-5" />
               See How It Works
